@@ -21,3 +21,7 @@
 -   Run php artisan db:seed
 -   Start developing
 -   easy to setup 
+
+
+
+New Readme file..
